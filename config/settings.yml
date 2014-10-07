@@ -1,0 +1,4 @@
+login:
+  enable_crowd_logins:
+    client: true
+    default: true
